@@ -29,7 +29,8 @@
 # 
 #    rake SOLR_CONSOLE=true
 
-SOLR_RUBY_VERSION = '0.0.9'
+# TODO: Remove and refactor this file
+SOLR_RUBY_VERSION = '0.0.10'
 
 require 'rubygems'
 require 'rake'
